@@ -2,11 +2,11 @@
 
 #include <string>
 
-#include "EmailService.hpp"
+#include "email_service.hpp"
 
-class UserRegistration {
+class RegistrationService {
  public:
-  explicit UserRegistration(EmailService* service);
+  explicit RegistrationService(EmailService* service);
 
   bool registerUser(const std::string& name, const std::string& email);
 
