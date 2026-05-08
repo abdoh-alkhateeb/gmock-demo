@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/tests.dir/registration_service.cpp.o CMakeFiles/tests.dir/registration_service_test.cpp.o -o tests  /usr/lib/x86_64-linux-gnu/libgtest.a /usr/lib/x86_64-linux-gnu/libgmock.a /usr/lib/x86_64-linux-gnu/libgtest_main.a /usr/lib/x86_64-linux-gnu/libgtest.a 
